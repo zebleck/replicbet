@@ -1,3 +1,9 @@
+# Chat
+
+WIP for webpage using Next.js and React that allows users to place bets on the outcome of third-party replication studies for scientific publications. The webpage features a conditional prediction market, and should display the necessary information, such as likelihood functions and raw data, to help users make predictions. The webpage should be designed using a microservices architecture, and should be secure and scalable.
+
+# About
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
