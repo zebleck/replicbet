@@ -1,3 +1,5 @@
+Inspired by https://twitter.com/ESYudkowsky/status/1650555229304426496
+
 # Chat
 
 WIP for webpage using Next.js and React that allows users to place bets on the outcome of third-party replication studies for scientific publications. The webpage features a conditional prediction market, and should display the necessary information, such as likelihood functions and raw data, to help users make predictions. The webpage should be designed using a microservices architecture, and should be secure and scalable.
